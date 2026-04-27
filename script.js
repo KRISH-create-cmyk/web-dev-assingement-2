@@ -3,7 +3,7 @@
 // // para.style.backgroundColor="Black"
 // // para.style.color="White"
 
-
+// // Selecting elements by class name
 
 // // const paras=document.getElementsByClassName("para")
 // // paras[0].innerText="Hello!"
